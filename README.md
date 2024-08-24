@@ -12,11 +12,10 @@
 ---
 
 ### 🛠️ Technologies & Tools:
-- **Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Bootstrap
+- **Languages:** Java, JavaScript, HTML, CSS, PHP
+- **Frameworks & Libraries:** React, Node.js, Express.js, JWT, Bootstrap, jQuery, AJAX
 - **Databases:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-- **Other Tools:** VS Code, Docker, Postman, PHP
+- **Other Tools:** Git, Github, VS Code, Docker, Postman
 
 ---
 
