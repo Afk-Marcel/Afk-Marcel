@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Marcel Greyling
 
-### Web Developer | Graduated from HyperionDev | Tech Enthusiast
+### Web Developer | Tech Enthusiast | Software Engineer
 
 ---
 
 **🌍 Location:** Paarl, South Africa  
-**🎓 Currently Studying:** Full-Stack Web Development  
+**🎓 Currently Studying:** Full-Stack Web Development and Cloud Technologies  
 **💻 Experience:** 3 Years in Web Development  
 **🚀 Goals:** Travel the world, build my own game  
 
@@ -38,7 +38,7 @@
 
 ### 🌱 Currently Learning:
 - Advanced JavaScript concepts
-- AWS
+- AWS Cloud Computing
 - Databases
 
 ---
